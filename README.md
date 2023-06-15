@@ -1,2 +1,1 @@
-# prepcursehenry
-este es un repositorio de prueba del modulo 2 de henry 
+este es un repositorio de prueba de como clonarlo desde github al escritorio
